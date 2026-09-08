@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Instrument Serif', serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --color-navy: #1A365D;
+  --color-amber: #D97706;
+  --color-offwhite: #FDFCFB;
+  --color-sand: #E6E1D6;
+  --color-ink: #10243E;
+  --color-muted: #526173;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.font-editorial {
+  font-family: 'Instrument Serif', serif;
+}
+
